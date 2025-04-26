@@ -37,7 +37,7 @@ pip install opencv-python numpy pillow tifffile matplotlib ttkbootstrap
 1. Clone this repository:
 ```bash
 git clone https://https://github.com/Edtison/Microscope_Cam_PyScript_qnd
-cd microscope-camera-gui
+cd Microscope_Cam_PyScript_qnd
 ```
 2. Run the application:
 ```bash
